@@ -1,4 +1,4 @@
-<p align="center">Hi! I'm currently studying my Bachelor's degree at Yeditepe University as a junior student.</p>
+<p align="center">Hi! I'm currently studying my Bachelor's degree at Yeditepe University as a senior student.</p>
 
 ###
 
