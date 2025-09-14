@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm currently studying my Bachelor's degree at Yed
 ## About Me
 
 - 🔭 I’m currently working as freelancer.
-- 🌱 I’m currently learning DevOps basics and developing an application.
+- 🌱 I’m currently learning some tools of DevOps
 - 🤔 I’m looking for a job.
 - 📫 How to reach me: fatihreha@proton.me
 
