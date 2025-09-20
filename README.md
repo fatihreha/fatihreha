@@ -11,15 +11,9 @@ Welcome to my GitHub profile! I'm IT graduate with a focus on DevOps and cloud s
 
 ---
 
-## GitHub Stats
+## GitHub Stats - Languages&Tools
 
-![Fatih Reha's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihreha&show_icons=true&theme=radical)
-
----
-
-## Languages and Tools
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihreha&layout=compact&theme=radical)
+![Fatih Reha's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihreha&show_icons=true&theme=radical) --- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihreha&layout=compact&theme=radical)
 
 ---
 
