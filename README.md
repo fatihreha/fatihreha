@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm IT graduate with a focus on DevOps and cloud s
 ## About Me
 
 - 🔭 I’m currently working as a freelancer.
-- 🌱 I’m currently learning some tools of DevOps.
+- 🌱 I’m currently learning DevOps-AIOps.
 - 🤔 I’m looking for a job.
 - 📫 How to reach me: fatihreha@proton.me
 
@@ -39,4 +39,4 @@ Here are some of the lists of repositories I've curated based on their purpose.
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/fatihrehadisci/)
-- [Personal Website](https://fatihreha.vercel.app/)
+- [Personal Website](https://fatihreha.tech)
